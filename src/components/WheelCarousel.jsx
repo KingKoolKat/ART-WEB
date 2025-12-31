@@ -131,6 +131,24 @@ export default function WheelCarousel({ items, startIndex = 0, onArtworkClick })
       role="region"
       aria-label="Artwork carousel"
     >
+      <button
+        type="button"
+        className="carousel-nav carousel-nav--prev"
+        onClick={() => rotate(-1)}
+        disabled={items.length < 2}
+        aria-label="Previous artwork"
+      >
+        <span aria-hidden="true">‹</span>
+      </button>
+      <button
+        type="button"
+        className="carousel-nav carousel-nav--next"
+        onClick={() => rotate(1)}
+        disabled={items.length < 2}
+        aria-label="Next artwork"
+      >
+        <span aria-hidden="true">›</span>
+      </button>
       <div className="carousel-track">
         {items.map((item, index) => {
           const offset = offsets[index];
