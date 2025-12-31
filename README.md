@@ -1,16 +1,64 @@
-# React + Vite
+# The Art Institute of the Internet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A museum-inspired web experience: upload an artwork, predict its style, then explore a curated “exhibit” carousel of related works.
 
-Currently, two official plugins are available:
+## Highlights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Fast style prediction uploads**: the frontend compresses images to **≤300KB** before sending them to the prediction API, while keeping the **full-quality image** for the on-page preview/gallery experience.
+- **Museum-style exhibit page**: style title + description + sources, followed by a wheel carousel.
+- **Mobile-friendly navigation**: swipe/tap to browse the carousel, plus on-screen previous/next controls for touch devices.
+- **Credible descriptions**: style descriptions and citations are loaded from `wikiart_style_descriptions.json` and rendered in the UI with links.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19** + **Vite**
+- **Vanilla CSS** (custom design system + museum theme)
+- Browser APIs: **Canvas** (client-side image compression), `fetch` + `FormData`
 
-## Expanding the ESLint configuration
+## How It Works (High Level)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. You upload an image.
+2. The app creates a full-quality preview for the UI.
+3. For prediction, the app generates a JPEG under 300KB (scale + quality steps) and posts it to the API.
+4. The API returns a predicted style, and the frontend fetches a gallery of artworks for that style.
+5. The exhibit header shows the style description + sources from `wikiart_style_descriptions.json`.
+
+## Local Development
+
+```bash
+npm install
+cp .env.example .env
+npm run dev
+```
+
+Build and preview production output:
+
+```bash
+npm run build
+npm run preview
+```
+
+## Configuration
+
+This project expects a backend API that exposes:
+
+- `POST /predict-style?top_k=...` (multipart upload field name: `file`)
+- `GET /gallery?style=...&limit=...`
+
+Set the API base URL via:
+
+- `VITE_API_URL` (see `.env.example`)
+
+## Deploy (Vercel)
+
+1. Import the repo into Vercel.
+2. Set `VITE_API_URL` in Vercel Environment Variables (Production + Preview).
+3. Use:
+   - Build command: `npm run build`
+   - Output directory: `dist`
+
+Note: your API must allow CORS from your Vercel domain(s), or requests will fail in the browser.
+
+## Data Sources
+
+Style descriptions and citations are stored in `wikiart_style_descriptions.json` and displayed in the exhibit view. Sources include institutions like Tate, MoMA, Encyclopaedia Britannica, and others (see the JSON for the full list).
