@@ -1,0 +1,369 @@
+{
+  "Abstract_Expressionism": {
+    "description": "Abstract Expressionism describes new forms of abstract art developed in the United States in the 1940s–1950s, associated with artists such as Jackson Pollock, Mark Rothko, and Willem de Kooning. It is often characterized by an emphasis on expressive, experimental processes and large-scale works that foreground paint, gesture, and the act of making.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Abstract expressionism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/a/abstract-expressionism"
+      },
+      {
+        "org": "MoMA",
+        "title": "Abstract Expressionism (collection terms)",
+        "url": "https://www.moma.org/collection/terms/abstract-expressionism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Action_painting": {
+    "description": "Action painting is an approach (often linked to Abstract Expressionism) in which the physical act of painting—bold gestures, drips, splashes, and other traces of movement—is central to the finished work. The term is associated with 1940s–early 1960s painting and emphasizes the canvas as a site of action rather than a window onto depicted space.",
+    "sources": [
+      {
+        "org": "MoMA",
+        "title": "Action painting (collection terms)",
+        "url": "https://www.moma.org/collection/terms/action-painting"
+      },
+      {
+        "org": "Tate",
+        "title": "Action painters (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/a/action-painters"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Analytical_Cubism": {
+    "description": "Analytical Cubism refers to the early phase of Cubism (commonly dated c. 1908–1912), characterized by the fragmentation of forms and the analysis of a subject from multiple viewpoints. Compositions often appear faceted and complex, with subdued color as artists explored how objects could be represented beyond single-point perspective.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Analytical cubism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/analytical-cubism"
+      },
+      {
+        "org": "Tate",
+        "title": "Cubism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/c/cubism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Art_Nouveau": {
+    "description": "Art Nouveau was an international style (c. 1890–1910) that sought a new visual language free from historic imitation. It is especially associated with a long, sinuous, organic line and nature-derived motifs, appearing across architecture, decorative arts, posters, and illustration.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Art Nouveau",
+        "url": "https://www.britannica.com/art/Art-Nouveau"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Baroque": {
+    "description": "Baroque art and architecture developed in Europe from the late 16th century through the 17th century and is often associated with dramatic movement, strong contrasts, and emotional intensity. In many contexts it aimed to persuade and impress—through theatrical composition, rich surface effects, and dynamic spatial design.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Baroque art and architecture",
+        "url": "https://www.britannica.com/art/Baroque-art-and-architecture"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Baroque architecture",
+        "url": "https://www.britannica.com/art/Baroque-architecture"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Color_Field_Painting": {
+    "description": "Colour (Color) Field painting is associated with abstract painters of the 1950s–1960s whose work is characterized by large areas of relatively flat, expansive color. Compared with more gestural styles, it typically places greater emphasis on overall fields of color and the viewer’s immersive encounter with the painting’s surface.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Colour field painting (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/c/colour-field-painting"
+      },
+      {
+        "org": "MoMA",
+        "title": "Color Field Painting (learning / themes)",
+        "url": "https://www.moma.org/learn/moma_learning/themes/color-field-painting/"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Contemporary_Realism": {
+    "description": "Contemporary Realism (as used by WikiArt) refers broadly to post-1960s representational painting and sculpture that aims to depict the ‘real’ rather than the ideal, often with a straightforward, observational approach. It spans diverse practices—figurative, landscape, and still life—united by renewed commitment to representation in the later 20th century and beyond.",
+    "sources": [
+      {
+        "org": "WikiArt",
+        "title": "Contemporary Realism (art movement page)",
+        "url": "https://www.wikiart.org/en/artists-by-art-movement/contemporary-realism"
+      },
+      {
+        "org": "TheArtStory",
+        "title": "Contemporary Realism (movement overview)",
+        "url": "https://www.theartstory.org/movement/contemporary-realism/"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Cubism": {
+    "description": "Cubism is a major early-20th-century movement (pioneered by Pablo Picasso and Georges Braque) that challenged traditional perspective by showing subjects from multiple viewpoints. Forms are often broken into geometric facets and reassembled to emphasize structure and pictorial construction over naturalistic appearance.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Cubism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/c/cubism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Early_Renaissance": {
+    "description": "Early Renaissance art (often associated with 15th-century Italy) marks a turn toward renewed interest in classical forms and the systematic exploration of space, proportion, and naturalism. Artists developed more convincing representation—especially in architecture, figure modeling, and spatial illusion—setting the stage for the High Renaissance.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Early Renaissance",
+        "url": "https://www.britannica.com/art/Early-Renaissance"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Renaissance art",
+        "url": "https://www.britannica.com/art/Renaissance-art"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Expressionism": {
+    "description": "Expressionism refers to art in which reality is deliberately distorted so that the image communicates inner feeling or emotional experience. Color, line, and form may be intensified or exaggerated to prioritize psychological impact over naturalistic depiction.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Expressionism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/e/expressionism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Fauvism": {
+    "description": "Fauvism describes work made around 1905–1910 by a group including Henri Matisse and André Derain. It is especially associated with strong, often non-naturalistic color and energetic brushwork used for expressive effect rather than faithful description.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Fauvism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/fauvism"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Fauvism",
+        "url": "https://www.britannica.com/art/Fauvism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "High_Renaissance": {
+    "description": "The High Renaissance is commonly dated from the early 1490s to 1527 and is often treated as a culmination of 15th-century Italian experiments in naturalism, perspective, and ideal proportion. It is closely associated with a drive toward harmony, balance, and monumental clarity in works by figures such as Leonardo, Michelangelo, and Raphael.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "The High Renaissance",
+        "url": "https://www.britannica.com/event/Renaissance/The-High-Renaissance"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Western painting: High Renaissance in Italy",
+        "url": "https://www.britannica.com/art/Western-painting/High-Renaissance-in-Italy"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Impressionism": {
+    "description": "Impressionism developed in 19th-century France and is associated with painting modern life using quick, visible brushwork and close attention to light and atmosphere. Many Impressionists worked outdoors (“en plein air”) to capture the fleeting effects of weather, time, and perception.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Impressionism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/i/impressionism"
+      },
+      {
+        "org": "National Gallery (UK)",
+        "title": "Guide to Impressionism",
+        "url": "https://www.nationalgallery.org.uk/paintings/learn-about-art/guide-to-impressionism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Mannerism_Late_Renaissance": {
+    "description": "Mannerism is a style that emerged after the High Renaissance (often from the 1520s) and is characterized by artifice, elegance, and inventive distortion. Artists frequently employed elongated proportions, complex poses, and spatial ambiguity, producing compositions that feel deliberately stylized rather than classically balanced.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Mannerism",
+        "url": "https://www.britannica.com/art/Mannerism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Minimalism": {
+    "description": "Minimalism (minimalist art) developed in the United States in the 1960s as an extreme form of abstract art that emphasizes simple, often geometric forms and materials. Rather than representing something else, minimalist works foreground their own physical presence and the viewer’s experience of space.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Minimalism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/m/minimalism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Naive_Art_Primitivism": {
+    "description": "Naïve art generally describes work by self-taught artists characterized by directness, simplified forms, and a flattened or unconventional approach to perspective. “Primitivism” (as a historical term) refers to modern artists’ interest in what they perceived as the forms and expressive power of non-Western and pre-industrial art, though the label is debated and used cautiously in scholarship.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Naïve art",
+        "url": "https://www.britannica.com/art/naive-art"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Primitivism",
+        "url": "https://www.britannica.com/art/Primitivism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "New_Realism": {
+    "description": "Nouveau réalisme (“New Realism”) was a French movement founded in 1960 by the critic Pierre Restany and is often described as a European counterpart to Pop art. Artists sought “new perceptions of reality,” frequently incorporating found materials, urban detritus, and appropriated imagery drawn from modern consumer and media culture.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Nouveau réalisme (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/n/nouveau-realisme"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Northern_Renaissance": {
+    "description": "The Northern Renaissance refers to Renaissance culture in Europe north of the Alps, where artists often emphasized meticulous detail and symbolic meaning. In painting, oil technique and close observation of surfaces became prominent, even as Italian advances in perspective and anatomy circulated across Europe.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Northern Renaissance",
+        "url": "https://www.britannica.com/topic/Northern-Renaissance"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Renaissance art (includes Northern Europe)",
+        "url": "https://www.britannica.com/art/Renaissance-art"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Pointillism": {
+    "description": "Pointillism is popularly used to describe the Neo-Impressionist practice of building images from small touches of separated color to achieve optical mixing at viewing distance. In art history, it is closely related to Divisionism and Neo-Impressionism, associated especially with Georges Seurat and Paul Signac in the late 19th century.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Neo-impressionism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/n/neo-impressionism"
+      },
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Neo-Impressionism",
+        "url": "https://www.britannica.com/art/Neo-Impressionism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Pop_Art": {
+    "description": "Pop art emerged in the 1950s and flourished in the 1960s in Britain and the United States, drawing on imagery from mass media, advertising, and consumer culture. By elevating commonplace visuals and products into art, it challenged traditional hierarchies between ‘high’ art and popular imagery.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Pop art (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/p/pop-art"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Post_Impressionism": {
+    "description": "Post-Impressionism describes developments in French painting after about 1886 (often marked by the last Impressionist group show), as artists extended or reacted against Impressionism. The term groups varied approaches that pursued stronger structure, symbolism, or personal expression while moving beyond purely momentary optical effects.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Post-impressionism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/p/post-impressionism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Realism": {
+    "description": "Realism, in the arts, denotes an accurate, detailed, and unembellished depiction of nature or contemporary life. It rejects imaginative idealization in favor of close observation of outward appearances and everyday subjects.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Realism (art)",
+        "url": "https://www.britannica.com/art/realism-art"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Rococo": {
+    "description": "Rococo originated in early-18th-century Paris and spread across Europe in painting, decorative arts, and architecture. It is characterized by lightness and elegance, with exuberant ornamentation featuring curving, natural forms and playful, refined surfaces.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Rococo",
+        "url": "https://www.britannica.com/art/Rococo"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Romanticism": {
+    "description": "Romanticism was an influential cultural orientation of the late 18th to mid-19th centuries that shaped painting, literature, music, and more. In visual art it often privileged emotion, imagination, and the sublime—favoring dramatic subjects, heightened atmosphere, and expressive intensity over classical restraint.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Romanticism",
+        "url": "https://www.britannica.com/art/Romanticism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Symbolism": {
+    "description": "Symbolism was a loosely organized late-19th-century movement that spread from literature to the visual arts. Symbolist artists sought to express subjective emotional experience through suggestive, often dreamlike imagery and symbolic forms rather than direct representation.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "Symbolism (literary and artistic movement)",
+        "url": "https://www.britannica.com/art/Symbolism-literary-and-artistic-movement"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Synthetic_Cubism": {
+    "description": "Synthetic Cubism is generally considered the later phase of Cubism (c. 1912–1914), characterized by simpler shapes, brighter color, and a greater emphasis on construction rather than analysis. It is closely associated with collage and the incorporation of everyday materials, foregrounding how images are built from parts.",
+    "sources": [
+      {
+        "org": "Tate",
+        "title": "Synthetic cubism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/s/synthetic-cubism"
+      },
+      {
+        "org": "Tate",
+        "title": "Cubism (art term)",
+        "url": "https://www.tate.org.uk/art/art-terms/c/cubism"
+      }
+    ],
+    "accessed": "2025-12-30"
+  },
+  "Ukiyo_e": {
+    "description": "Ukiyo-e is a major genre of Japanese art from the Tokugawa (Edo) period (1603–1867), especially known through woodblock prints and paintings. It commonly depicts actors, courtesans, landscapes, and scenes of everyday life, combining narrative interests with refined decorative design.",
+    "sources": [
+      {
+        "org": "Encyclopaedia Britannica",
+        "title": "ukiyo-e",
+        "url": "https://www.britannica.com/art/ukiyo-e"
+      }
+    ],
+    "accessed": "2025-12-30"
+  }
+}

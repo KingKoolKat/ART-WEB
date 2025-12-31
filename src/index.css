@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=IBM+Plex+Sans+Condensed:wght@300;500&display=swap");
+
+:root {
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --font-title: "Cormorant Garamond", serif;
+  --font-body: "IBM Plex Sans Condensed", sans-serif;
+
+  --ink: #1f1c17;
+  --ink-soft: #4a453d;
+  --wall-base: #c9c6bf;
+  --wall-mid: #c1bdb6;
+  --wall-dark: #b2aea7;
+  --frame-dark: #2f2c27;
+  --frame-shadow: rgba(20, 18, 16, 0.32);
+  --frame-matte: #f5f2ea;
+  --plaque-bg: #e3dcc9;
+  --plaque-border: #c7bfab;
+  --accent: #756a59;
+  --accent-strong: #4b4236;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--ink);
+  background: var(--wall-base);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  font-family: inherit;
+}
+
+#root {
+  min-height: 100vh;
+}
