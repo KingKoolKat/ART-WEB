@@ -454,7 +454,7 @@
   font-size: 1.6rem;
   line-height: 1;
   cursor: pointer;
-  z-index: 6;
+  z-index: 220;
   transition: transform 180ms ease, box-shadow 180ms ease, opacity 180ms ease;
 }
 
